@@ -15,8 +15,8 @@ const About = () => {
           </div>
 
           <p className="text-xl mt-10  ">
-            My name is Swapnil Sharma and I am a Front-End developer with more
-            than 1 year of professional experience.
+            My name is Swapnil Sharma and I am a Front-End developer with around
+            2 years of professional experience.
             <br />
             <br />I have a knack for good design and UI and have good working
             knowledge of ReactJS, NextJS, Typescript, and Javascript concepts
